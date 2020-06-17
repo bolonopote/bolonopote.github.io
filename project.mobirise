@@ -39,7 +39,8 @@
     ],
     "imageResize": true,
     "uniqCompNum": 3,
-    "versionPublish": "4.12.3"
+    "versionPublish": "4.12.3",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
